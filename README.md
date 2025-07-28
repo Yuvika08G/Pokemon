@@ -1,3 +1,0 @@
-# Pokemon
-Hw task 
-hi
